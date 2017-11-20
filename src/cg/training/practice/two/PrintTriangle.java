@@ -1,4 +1,4 @@
-package cg.practice.two;
+package cg.training.practice.two;
 
 import java.util.Scanner;
 

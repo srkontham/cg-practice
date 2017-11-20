@@ -1,4 +1,4 @@
-package cg.practice.one;
+package cg.training.practice.one;
 
 public class ArrayNRowsSumEqual {
 	
